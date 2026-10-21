@@ -1,0 +1,1 @@
+A few weeks ago, I made a Minecraft Task Manager. The code in that program was procedural. I've been practicing OOP with Python, so in the spirit of practice, I decided to remake the previous Task Manager with an Object-Oriented approach. This program should have the same functionality as the previous one. The key difference is the change in the programming paradigm used.
